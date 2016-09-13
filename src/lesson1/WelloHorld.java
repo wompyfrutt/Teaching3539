@@ -11,7 +11,7 @@ public class WelloHorld //class
 	public char lauren;// 'a' 'b' 'r' 't'
 	public long noah;//for very long numbers
 	public short taco;//for short numbers (saves data (memory))
-	public float joey2;//.2334643565435
+	public float kenny;//.2334643565435
 	
 	public int pencil = 5;
 	public int mouse = 11;
